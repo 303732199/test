@@ -1,0 +1,9 @@
+{
+    "name": "303732199/demo1",
+    "description": "this is a demo",
+    "type": "library",
+    "require": {},
+    "autoload": {
+	"psr-4": {"Inspur//Model":"src/"}
+    }
+}
