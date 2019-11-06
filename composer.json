@@ -4,6 +4,8 @@
     "type": "library",
     "require": {},
     "autoload": {
-	"psr-4": {"Inspur//Model//":"src/"}
+        "psr-4": {
+            "Inspur\\Model\\": "src/"
+        }
     }
 }
